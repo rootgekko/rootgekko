@@ -4,7 +4,6 @@ I'm currently studying **Applied Computer Science** with focus on **Mobile Secur
 
 👀 I'm also very interested in the field of **Data Science**, especially where it overlaps with **cybersecurity** and the analysis of data for security-related applications.
 
----
 
 ## 🔐 Areas of Interest
 
@@ -14,7 +13,6 @@ I'm currently studying **Applied Computer Science** with focus on **Mobile Secur
 - Data Science & Machine Learning
 - Secure Software Engineering & OS Security
 
----
 
 ## 🛠️ Technologies & Tools
 
@@ -22,7 +20,6 @@ I'm currently studying **Applied Computer Science** with focus on **Mobile Secur
 - Tools: Wireshark, Burp Suite, Jupyter, Git, Android Studio
 - Frameworks: Pandas, NumPy, Flask
 
----
 
 ## 📫 Get in Touch
 
@@ -30,8 +27,5 @@ I'm currently studying **Applied Computer Science** with focus on **Mobile Secur
 - 💼 LinkedIn: *[not available yet]*
 - 🌐 Blog or Website: *[not available yet]*
 
----
-
 Thanks for stopping by! Feel free to check out my repositories — I'm always open to connecting over interesting projects in **cybersecurity** and **data science**. 🚀
 
-## ⚡ Fun fact: ...
