@@ -1,12 +1,37 @@
-- 👋 Hi, I’m @rootgekko
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m @rootgekko and welcome to my GitHub profile!
 
-<!---
-rootgekko/rootgekko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm currently studying **Applied Computer Science** with focus on **Mobile Security**.
+
+👀 I'm also very interested in the field of **Data Science**, especially where it overlaps with **cybersecurity** and the analysis of data for security-related applications.
+
+---
+
+## 🔐 Areas of Interest
+
+- Mobile Security & App Protection
+- Penetration Testing & Ethical Hacking
+- Cryptography & Secure Communication
+- Data Science & Machine Learning
+- Secure Software Engineering & OS Security
+
+---
+
+## 🛠️ Technologies & Tools
+
+- Languages: Python, Java, C
+- Tools: Wireshark, Burp Suite, Jupyter, Git, Android Studio
+- Frameworks: Pandas, NumPy, Flask
+
+---
+
+## 📫 Get in Touch
+
+- 📧 Email: *[not available yet]*
+- 💼 LinkedIn: *[not available yet]*
+- 🌐 Blog or Website: *[not available yet]*
+
+---
+
+Thanks for stopping by! Feel free to check out my repositories — I'm always open to connecting over interesting projects in **cybersecurity** and **data science**. 🚀
+
+## ⚡ Fun fact: ...
